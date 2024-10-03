@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Sports channel", T sports
-m3u8 link
+https://mrlivetv.github.io/Player23/index3.html
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
